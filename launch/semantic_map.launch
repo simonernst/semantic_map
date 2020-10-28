@@ -1,0 +1,7 @@
+<launch>
+
+<node pkg="semantic_map" name="semantic_map" type="semantic_map.py" output="screen"</node>
+
+<!-- Maybe launch also Yolact Ros-->
+
+</launch>
